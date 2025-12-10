@@ -1,0 +1,51 @@
+{
+    "profile": {
+        "name": "Byreddy Rajesh",
+        "tagline": "Full Stack Developer & MCA Student",
+        "location": "Warangal, India",
+        "bannerImage": "../ele/card_banner.png",
+        "profileImage": "../ele/myimage2.png",
+        "themeColor": "#3b82f6"
+    },
+    "skills": [
+        "Full Stack Developer",
+        "React & Next.js"
+    ],
+    "socialLinks": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/rajeshbyreddy95",
+            "icon": "linkedin",
+            "tooltip": "LinkedIn"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/rajeshbyreddy95",
+            "icon": "github",
+            "tooltip": "GitHub"
+        },
+        {
+            "platform": "Email",
+            "url": "mailto:rajeshbyreddy95@gmail.com",
+            "icon": "email",
+            "tooltip": "Email"
+        }
+    ],
+    "footer": {
+        "text": "Made by Rajesh",
+        "url": "https://github.com/rajeshbyreddy95",
+        "showHeart": true
+    },
+    "animations": {
+        "enableHover3D": true,
+        "enableRippleEffect": true,
+        "enableParallax": true
+    },
+    "customization": {
+        "cardWidth": "430px",
+        "cardBorderRadius": "24px",
+        "glowIntensity": "20px",
+        "backgroundType": "solid",
+        "backgroundColor": "#000000"
+    }
+}

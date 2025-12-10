@@ -1,0 +1,129 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "AI ChatMate",
+      "description": "Full-stack generative AI web app with React frontend, Flask REST APIs integrated with LangChain and Perplexity API for context-aware QA and real-time PDF summarization (50+ pages, 40% faster response times).",
+      "technologies": [
+        "React",
+        "Flask",
+        "LangChain",
+        "Perplexity API",
+        "Markdown"
+      ],
+      "category": "web",
+      "image": "https://res.cloudinary.com/dmpkp1nxv/image/upload/v1765365420/Screenshot_2025-12-10_at_4.46.02_PM_2_gzkmah.png",
+      "githubUrl": "https://github.com/rajeshbyreddy/llm_chatbot",
+      "liveUrl": "https://llm-chatbot-rho.vercel.app/",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "MovieFlix",
+      "description": "Responsive movie streaming app with JWT authentication, Zustand state management, and TMDB API integration featuring trending carousels, top-rated content, cast profiles, and embedded trailers. Full-text search across 1000+ items.",
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "Zustand",
+        "TMDB API",
+        "Tailwind CSS"
+      ],
+      "category": "web",
+      "image": "https://res.cloudinary.com/dmpkp1nxv/image/upload/v1765365526/Screenshot_2025-12-10_at_4.48.28_PM_2_ajblea.png",
+      "githubUrl": "https://github.com/rajeshbyreddy/movieapp",
+      "liveUrl": "https://movieapp-zeta-drab.vercel.app/",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "i know – Social Media Platform",
+      "description": "Full-stack social media platform with JWT authentication, real-time messaging, notifications serving 200+ users. Posts with text/image support, likes, comments, follow system with optimized MongoDB/Mongoose models.",
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "MongoDB",
+        "JWT",
+        "Cloudinary"
+      ],
+      "category": "fullstack",
+      "image": "https://res.cloudinary.com/dmpkp1nxv/image/upload/v1765365602/Screenshot_2025-12-10_at_4.49.50_PM_2_nze3go.png",
+      "githubUrl": "https://github.com/rajeshbyreddy/iknow",
+      "liveUrl": "https://iknow-5i8n.vercel.app/",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "Fashion Boutique SQL Analytics",
+      "description": "Comprehensive SQL data analytics project analyzing 2,000+ fashion products across 10 case studies.  Features advanced SQL techniques (CTEs, window functions, conditional aggregation) to uncover business insights on inventory health, pricing strategy, customer returns, and vendor performance.",
+      "technologies": [
+        "SQL",
+        "MySQL",
+        "Jupyter Notebook",
+        "Python",
+        "Data Analysis"
+      ],
+      "category": "data",
+      "image": "https://github.com/rajeshbyreddy/sql-ecommerce-analytics/blob/master/08_markdown_paradox.png?raw=true",
+      "githubUrl": "https://github.com/rajeshbyreddy/sql-ecommerce-analytics/",
+      "liveUrl": "",
+      "featured": true
+    },
+    {
+  "id": 5,
+  "title": "DriveHub - Car Rental System",
+  "description": "Full-stack car rental platform with Spring Boot and JSP. Features user authentication with OTP verification, booking management, Razorpay payment integration, admin dashboard, Redis caching, and AWS cloud deployment (EC2, RDS, S3). Handles 2000+ concurrent users with responsive Tailwind CSS design.",
+  "technologies": [
+    "Spring Boot",
+    "Java 17",
+    "JSP",
+    "MySQL",
+    "Redis",
+    "AWS (EC2, RDS, S3)",
+    "Razorpay",
+    "Tailwind CSS",
+    "Maven"
+  ],
+  "category": "fullstack",
+  "image": "https://res.cloudinary.com/dmpkp1nxv/image/upload/v1765366010/Screenshot_2025-12-10_at_4.55.05_PM_2_fa3eoc.png",
+  "githubUrl": "https://github.com/rajeshbyreddy/carrentalsystem",
+  "liveUrl": "http://ec2-98-92-39-200.compute-1.amazonaws.com:8080/",
+  "featured": true
+},
+{
+  "id":  6,
+  "title": "Movie SQL Analytics",
+  "description":  "A comprehensive SQL-based exploration and analysis of a movie dataset.  Features advanced SQL queries covering joins (INNER, LEFT, multi-table), filtering, aggregation functions (AVG, MAX, COUNT), window functions, CASE statements, subqueries, and data analytics.  Includes organized table schemas, raw datasets, and practice questions for learning SQL concepts.",
+  "technologies": [
+    "MySQL 9.3.0",
+    "SQL",
+    "Excel"
+  ],
+  "category":  "data",
+  "image": "https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940",
+  "githubUrl":  "https://github.com/rajeshbyreddy/MovieAnalytics_SQL_Project",
+  "liveUrl": null,
+  "featured": false
+}
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "All",
+      "icon": "fa-solid fa-diagram-project",
+      "visible": true
+    },
+    {
+      "id": "data",
+      "name": "data",
+      "icon": "fa-solid fa-globe",
+      "visible": true
+    },
+    {
+      "id": "fullstack",
+      "name": "Full-Stack",
+      "icon": "fa-solid fa-layer-group",
+      "visible": true
+    }
+  ]
+}
